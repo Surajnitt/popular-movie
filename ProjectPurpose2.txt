@@ -1,1 +1,2 @@
 To give real time information about movie.
+This is git tutorial.
